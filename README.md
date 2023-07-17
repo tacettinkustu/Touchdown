@@ -37,7 +37,9 @@ To start using Touchdown, follow the steps below:
 
 1. Clone the repository to your local machine using the following command:
 
+```shell
 git clone https://github.com/your-username/touchdown.git
+```
 
 2. Additional installation steps, if any, should be provided here.
 
@@ -61,18 +63,21 @@ We welcome contributions from the community to make Touchdown even better. To co
 
 1. Fork the repository and create a new branch for your feature or bug fix:
 
+```shell
 git checkout -b feature/your-feature
-
+```
 
 2. Implement the desired changes and commit them with clear and concise messages:
 
+```shell
 git commit -m "Add feature/fix"
-
+```
 
 3. Push your changes to your branch on your forked repository:
 
+```shell
 git push origin feature/your-feature
-
+```
 
 4. Open a pull request on the main repository, providing a detailed explanation of your changes and their purpose.
 

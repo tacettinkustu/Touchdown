@@ -27,4 +27,3 @@ struct FeaturedItemView_Previews: PreviewProvider {
             .background(colorBackground)
     }
 }
-

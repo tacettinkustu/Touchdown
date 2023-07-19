@@ -26,6 +26,8 @@ struct ContentView: View {
                                      
                         CategoryGridView()
                         
+                        TitleView(title: "Helmets")
+                        
                         FooterView()
                             .padding(.horizontal)
                     } //: VSTACK

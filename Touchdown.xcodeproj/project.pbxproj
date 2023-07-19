@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C5BC5DB2A682A3400DF3782 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BC5DA2A682A3400DF3782 /* CategoryModel.swift */; };
 		6CD8465B2A65C02300DA5BE1 /* TouchdownApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD8465A2A65C02300DA5BE1 /* TouchdownApp.swift */; };
 		6CD8465D2A65C02300DA5BE1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD8465C2A65C02300DA5BE1 /* ContentView.swift */; };
 		6CD8465F2A65C02400DA5BE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CD8465E2A65C02400DA5BE1 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C5BC5DA2A682A3400DF3782 /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
 		6CD846572A65C02300DA5BE1 /* Touchdown.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Touchdown.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CD8465A2A65C02300DA5BE1 /* TouchdownApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchdownApp.swift; sourceTree = "<group>"; };
 		6CD8465C2A65C02300DA5BE1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 			isa = PBXGroup;
 			children = (
 				6CD846832A67013D00DA5BE1 /* PlayerModel.swift */,
+				6C5BC5DA2A682A3400DF3782 /* CategoryModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				6CD846882A6703D500DA5BE1 /* FeaturedItemView.swift in Sources */,
 				6CD8465B2A65C02300DA5BE1 /* TouchdownApp.swift in Sources */,
 				6CD8467C2A65C70E00DA5BE1 /* Constant.swift in Sources */,
+				6C5BC5DB2A682A3400DF3782 /* CategoryModel.swift in Sources */,
 				6CD846802A66D88A00DA5BE1 /* NavigationBarView.swift in Sources */,
 				6CD8468A2A6704D100DA5BE1 /* FeaturedTabView.swift in Sources */,
 				6CD846842A67013D00DA5BE1 /* PlayerModel.swift in Sources */,

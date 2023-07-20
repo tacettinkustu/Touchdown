@@ -12,9 +12,13 @@ struct ProductDetailView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 5, content: {
             // NAVBAR
+            NavigationBarDetailView()
+              .padding(.horizontal)
+              .padding(.top, UIApplication.shared.windows.first?.safeAreaInsets.top)
             
-            Text(sampleProduct.name)
-            
+            HeaderDetailView()
+              .padding(.horizontal)
+                        
             Spacer()
 
         }) //: VSTACK

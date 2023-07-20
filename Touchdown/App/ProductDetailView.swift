@@ -18,6 +18,9 @@ struct ProductDetailView: View {
             
             HeaderDetailView()
               .padding(.horizontal)
+            
+            TopPartDetailView()
+                .padding(.horizontal)
                         
             Spacer()
 

@@ -21,8 +21,13 @@ struct ProductDetailView: View {
             
             TopPartDetailView()
                 .padding(.horizontal)
+                .zIndex(1)
             
             VStack(alignment: .center, spacing: 0, content: {
+                RatingsSizesDetailView()
+                    .padding(.top, -20)
+                    .padding(.bottom, 10)
+                
                 ScrollView(.vertical, showsIndicators: false, content: {
                     Text(sampleProduct.description)
                         .font(.system(.body, design: .rounded))
@@ -36,10 +41,8 @@ struct ProductDetailView: View {
                     .clipShape(CustomShape())
                     .padding(.top, -105)
             )
-            
-            Spacer()
-            
         }) //: VSTACK
+        .zIndex(0)
         .ignoresSafeArea(.all, edges: .all)
         .background(
             Color(

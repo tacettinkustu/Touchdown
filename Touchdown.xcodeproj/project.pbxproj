@@ -38,6 +38,7 @@
 		6CF997682A698C42004A3DAA /* HeaderDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF997672A698C42004A3DAA /* HeaderDetailView.swift */; };
 		6CF9976A2A698CE3004A3DAA /* TopPartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF997692A698CE3004A3DAA /* TopPartDetailView.swift */; };
 		6CF9976C2A6B1A71004A3DAA /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF9976B2A6B1A71004A3DAA /* CustomShape.swift */; };
+		6CF9976E2A6B1C00004A3DAA /* RatingSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF9976D2A6B1C00004A3DAA /* RatingSizesDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,6 +75,7 @@
 		6CF997672A698C42004A3DAA /* HeaderDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderDetailView.swift; sourceTree = "<group>"; };
 		6CF997692A698CE3004A3DAA /* TopPartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopPartDetailView.swift; sourceTree = "<group>"; };
 		6CF9976B2A6B1A71004A3DAA /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
+		6CF9976D2A6B1C00004A3DAA /* RatingSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingSizesDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +184,7 @@
 				6CF997652A698B6D004A3DAA /* NavigationBarDetailView.swift */,
 				6CF997672A698C42004A3DAA /* HeaderDetailView.swift */,
 				6CF997692A698CE3004A3DAA /* TopPartDetailView.swift */,
+				6CF9976D2A6B1C00004A3DAA /* RatingSizesDetailView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				6C5BC5E12A682D3000DF3782 /* SectionView.swift in Sources */,
 				6C5BC5ED2A6864BD00DF3782 /* BrandItemView.swift in Sources */,
 				6C5BC5DD2A682C2700DF3782 /* CategoryItemView.swift in Sources */,
+				6CF9976E2A6B1C00004A3DAA /* RatingSizesDetailView.swift in Sources */,
 				6CD8468A2A6704D100DA5BE1 /* FeaturedTabView.swift in Sources */,
 				6CF9976C2A6B1A71004A3DAA /* CustomShape.swift in Sources */,
 				6CD846842A67013D00DA5BE1 /* PlayerModel.swift in Sources */,

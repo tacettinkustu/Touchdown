@@ -34,6 +34,9 @@ struct ProductDetailView: View {
                         .foregroundColor(.gray)
                         .multilineTextAlignment(.leading)
                 }) //: SCROLL
+                
+                QuantityFavouriteDetailView()
+                    .padding(.vertical, 10)
             }) //: VSTACK
             .padding(.horizontal)
             .background(

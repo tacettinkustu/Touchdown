@@ -41,6 +41,7 @@
 		6CF9976E2A6B1C00004A3DAA /* RatingSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF9976D2A6B1C00004A3DAA /* RatingSizesDetailView.swift */; };
 		6CF997702A6EF9AD004A3DAA /* QuantityFavoutiteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF9976F2A6EF9AD004A3DAA /* QuantityFavoutiteDetailView.swift */; };
 		6CF997722A6EFFB5004A3DAA /* AddToCartDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF997712A6EFFB5004A3DAA /* AddToCartDetail.swift */; };
+		6CF997742A7162D9004A3DAA /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF997732A7162D9004A3DAA /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		6CF9976D2A6B1C00004A3DAA /* RatingSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingSizesDetailView.swift; sourceTree = "<group>"; };
 		6CF9976F2A6EF9AD004A3DAA /* QuantityFavoutiteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavoutiteDetailView.swift; sourceTree = "<group>"; };
 		6CF997712A6EFFB5004A3DAA /* AddToCartDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetail.swift; sourceTree = "<group>"; };
+		6CF997732A7162D9004A3DAA /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 			children = (
 				6CD8467B2A65C70E00DA5BE1 /* Constant.swift */,
 				6CF9976B2A6B1A71004A3DAA /* CustomShape.swift */,
+				6CF997732A7162D9004A3DAA /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				6CF9976C2A6B1A71004A3DAA /* CustomShape.swift in Sources */,
 				6CD846842A67013D00DA5BE1 /* PlayerModel.swift in Sources */,
 				6C5BC5EB2A68645E00DF3782 /* BrandModel.swift in Sources */,
+				6CF997742A7162D9004A3DAA /* Shop.swift in Sources */,
 				6CF997702A6EF9AD004A3DAA /* QuantityFavoutiteDetailView.swift in Sources */,
 				6CF997722A6EFFB5004A3DAA /* AddToCartDetail.swift in Sources */,
 				6C5BC5E32A68307700DF3782 /* TitleView.swift in Sources */,

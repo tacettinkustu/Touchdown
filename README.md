@@ -3,7 +3,7 @@
 Welcome to the Touchdown repository! This project focuses on creating an E-commerce app prototype using SwiftUI 2.0. The goal of this project is to provide a practical example of building a modern and interactive shopping app using SwiftUI.
 
 <p align="center">
-  <img src="https://github.com/tacettinkustu/Touchdown/assets/51737508/e2b0a709-af58-40a8-ad71-7ef5ffd087d4" alt="Description of the image" width="300">
+  <img src="https://github.com/tacettinkustu/Touchdown/assets/51737508/cb544e65-2eaa-4d7e-abbd-3bda4d89a4ca" alt="Description of the image" width="300">
 </p>
 
 ## Table of Contents

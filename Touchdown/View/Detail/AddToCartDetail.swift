@@ -13,6 +13,7 @@ struct AddToCartDetailView: View {
     
     var body: some View {
         Button(action: {
+            feedback.impactOccurred()
         }, label: {
             Spacer()
             Text("Add to cart".uppercased())
